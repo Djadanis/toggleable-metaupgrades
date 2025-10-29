@@ -1,6 +1,6 @@
 # Toggleable MetaUpgrades (TMU)
 
-This mod allows the player to toggle some MetaUpgrades on and off. Are concerned all non-decorative and non-memento related MetaUpgrades.
+This mod allows the player to toggle power-related MetaUpgrades on and off.
 
 ## Requirements
 
@@ -23,7 +23,8 @@ This mod allows the player to toggle some MetaUpgrades on and off. Are concerned
 
 ## Features
 
-- **Power-related** MetaUpgrades are now able to be refunded and rebought, effectively making them toggles.
+- **Alioth's**, **Gustavo's** and some of **Sir Tiberion's** MetaUpgrades are now able to be refunded and rebought, effectively making them toggles.
+- **Lily's**, **Ivy's** and most of **Sir Tiberion's** MetaUpgrades can't be toggled off.
 
 ## Compatibility
 
