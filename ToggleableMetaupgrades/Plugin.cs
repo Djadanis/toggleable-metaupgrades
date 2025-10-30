@@ -21,6 +21,6 @@ public class Plugin : BaseUnityPlugin
         harmony.PatchAll(typeof(MetaUpgradeDependencies));
         harmony.PatchAll(typeof(UpgradeRefunds));
 
-        Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
+        Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_NAME} is loaded!");
     }
 }
