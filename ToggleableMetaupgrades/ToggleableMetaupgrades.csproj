@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <AssemblyName>ToggleableMetaupgrades</AssemblyName>
+    <AssemblyName>djadanis.toggleable-metaupgrades</AssemblyName>
     <Product>Toggleable MetaUpgrades</Product>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
